@@ -1,0 +1,50 @@
+body{
+    background: #00afbe;
+}
+
+.imgnew{
+    padding-top: 50px;
+}
+
+#ip5 {
+
+    height: 400px;
+    border-radius: 10px 10px 0px 0px;
+    border: 3px solid #ffffff;
+    overflow: auto;
+}
+.inputchat {
+
+    overflow: auto;
+    width: 100%;
+
+}
+#logo{
+    height: 70px;
+    width: 70px;
+
+}
+.shadow-textarea textarea.form-control::placeholder {
+    font-weight: 300;
+}
+.shadow-textarea textarea.form-control {
+    padding-left: 0.8rem;
+}
+.mm
+{
+    margin-top: 4%;
+}
+
+
+.mm1
+{
+    margin-top: 5%;
+    border-radius: 10px 10px 10px 10px;
+    border: 3px solid #ffffff;
+
+}
+.mm2
+{
+    margin-top: 5%;
+
+}
